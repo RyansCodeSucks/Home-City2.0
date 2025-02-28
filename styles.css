@@ -15,6 +15,7 @@ h1 {
     color: whitesmoke;
     background-color: #7F9EB3;
     border-radius: 7px;
+    display: flex;
     padding: 10px;
 }
 
@@ -22,6 +23,7 @@ h2 {
     color: whitesmoke;
     background-color: #3E5F88;
     border-radius: 7px;
+    display: flex;
     padding: 10px;
     font-size: medium;
 }
