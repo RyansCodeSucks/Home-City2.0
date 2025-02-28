@@ -98,7 +98,7 @@ h2 {
     height: 210px;
     border-radius: 10px;
     object-fit: cover;
-    margin:0 0 15px 0; 
+    margin-right: 15px; 
 }
 
 #video {
