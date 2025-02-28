@@ -23,8 +23,9 @@ h2 {
     color: whitesmoke;
     background-color: #3E5F88;
     border-radius: 7px;
-    padding: 5px;
+    padding: 10px;
     font-size: medium;
+    display: inline-block;
 }
 
 #locations {
