@@ -107,3 +107,8 @@ h2 {
 #video {
     background-color: #474F38;
 }
+
+video {
+    max-width: 100%;
+    height: auto;
+}
