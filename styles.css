@@ -15,7 +15,6 @@ h1 {
     color: whitesmoke;
     background-color: #7F9EB3;
     border-radius: 7px;
-    display: inline-block;
     padding: 10px;
 }
 
@@ -25,7 +24,6 @@ h2 {
     border-radius: 7px;
     padding: 10px;
     font-size: medium;
-    display: inline-block;
 }
 
 #locations {
